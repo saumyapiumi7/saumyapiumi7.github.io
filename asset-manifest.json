@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.3d7eff53.chunk.css",
-    "main.js": "/static/js/main.2258e6c6.chunk.js",
-    "main.js.map": "/static/js/main.2258e6c6.chunk.js.map",
+    "main.css": "/static/css/main.823afd5d.chunk.css",
+    "main.js": "/static/js/main.d7c9928f.chunk.js",
+    "main.js.map": "/static/js/main.d7c9928f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.dccd1af4.js",
     "runtime-main.js.map": "/static/js/runtime-main.dccd1af4.js.map",
     "static/css/2.4819d237.chunk.css": "/static/css/2.4819d237.chunk.css",
     "static/js/2.ef35f405.chunk.js": "/static/js/2.ef35f405.chunk.js",
     "static/js/2.ef35f405.chunk.js.map": "/static/js/2.ef35f405.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e7f79a46be9bb6f65bc3290fe8455448.js": "/precache-manifest.e7f79a46be9bb6f65bc3290fe8455448.js",
+    "precache-manifest.25c176d47056dbabcc9f09da0b0fb27c.js": "/precache-manifest.25c176d47056dbabcc9f09da0b0fb27c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.4819d237.chunk.css.map": "/static/css/2.4819d237.chunk.css.map",
-    "static/css/main.3d7eff53.chunk.css.map": "/static/css/main.3d7eff53.chunk.css.map",
+    "static/css/main.823afd5d.chunk.css.map": "/static/css/main.823afd5d.chunk.css.map",
     "static/js/2.ef35f405.chunk.js.LICENSE.txt": "/static/js/2.ef35f405.chunk.js.LICENSE.txt",
     "static/media/android.png": "/static/media/android.675832e2.png",
     "static/media/covid19.jpg": "/static/media/covid19.5943191e.jpg",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.dccd1af4.js",
     "static/css/2.4819d237.chunk.css",
     "static/js/2.ef35f405.chunk.js",
-    "static/css/main.3d7eff53.chunk.css",
-    "static/js/main.2258e6c6.chunk.js"
+    "static/css/main.823afd5d.chunk.css",
+    "static/js/main.d7c9928f.chunk.js"
   ]
 }
